@@ -1,10 +1,8 @@
-<!--
 ### ¡Alto ahí! 👋
 
 <!--
 **JosephFaster/JosephFaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!--
 ### 👋 Hola, soy Paco
 
 Un feliz Científico de Datos Jr. apasionado por el machine learning, el marketing y las finanzas. Con formación en Economía Industrial y una sólida base en Python, SQL, y Power BI, me especializo en transformar datos complejos en soluciones claras y decisiones estratégicas.
@@ -44,4 +42,4 @@ Con una sólida experiencia en análisis financiero y estudios de mercado, aplic
 
 ### 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JosephFaster&show_icons=true&theme=tokyonight)
--->
+
