@@ -20,6 +20,8 @@ Un feliz Científico de Datos Jr. apasionado por el machine learning, el marketi
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 [![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,html,css,pandas,jupyter,vscode,sklearn,ml,powerbi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,jupyter,vscode,sklearn,ml,powerbi,gcp)](https://skillicons.dev)
+
 
 ### 📊 Análisis Financiero y Estudios de Mercado
 Con una sólida experiencia en análisis financiero y estudios de mercado, aplico técnicas avanzadas de datos para revelar insights que impulsan las estrategias de marketing y las decisiones financieras.
