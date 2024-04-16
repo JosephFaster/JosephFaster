@@ -19,8 +19,7 @@ Un feliz Científico de Datos Jr. apasionado por el machine learning, el marketi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,html,css,pandas,jupyter,vscode,sklearn,ml,powerbi)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,jupyter,vscode,sklearn,ml,powerbi,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,jupyter,vscode,sklearn,powerbi,gcp)](https://skillicons.dev)
 
 
 ### 📊 Análisis Financiero y Estudios de Mercado
