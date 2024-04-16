@@ -41,5 +41,5 @@ Con una sólida experiencia en análisis financiero y estudios de mercado, aplic
 
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JosephFaster&show_icons=true&theme=tokyonight)
 
