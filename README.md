@@ -1,15 +1,21 @@
-### ¡Alto ahí! 👋
+Claro, aquí tienes la redacción en inglés y el perfil de GitHub ajustado:
 
-<!--
-**JosephFaster/JosephFaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### 👋 Hola, soy Paco
+---
 
-Un feliz Científico de Datos Jr. apasionado por el machine learning, el marketing y las finanzas. Con formación en Economía Industrial y una sólida base en Python, SQL, y Power BI, me especializo en transformar datos complejos en soluciones claras y decisiones estratégicas.
+**Data Science Bootcamp**  
+A comprehensive 9-month bootcamp focused on advanced Python, SQL, and machine learning techniques. Gained expertise in key libraries like Pandas and Scikit-learn for data analysis and predictive modeling. Completed 10 practical projects, including predictive solutions for the video game industry and AI applications in mining. This hands-on experience solidified my mastery of Python as a fundamental tool in data science.
 
-🔍 A lo largo de mi carrera, he utilizado análisis avanzados para predecir tendencias de mercado y comportamientos de consumidores, optimizando campañas publicitarias y estrategias financieras. Mi experiencia incluye desde el desarrollo de paneles interactivos para diagnósticos médicos hasta análisis econométricos que informan políticas y estrategias de negocio.
+---
 
-### 🛠 Habilidades Técnicas
+### ¡Stop right there! 👋
+
+### 👋 Hi, I'm Paco
+
+A happy Junior Data Scientist passionate about machine learning, marketing, and finance. With a background in Industrial Economics and a solid foundation in Python, SQL, and Power BI, I specialize in transforming complex data into clear solutions and strategic decisions.
+
+🔍 Throughout my career, I have utilized advanced analysis to predict market trends and consumer behaviors, optimizing advertising campaigns and financial strategies. My experience ranges from developing interactive dashboards for medical diagnostics to econometric analyses that inform policies and business strategies.
+
+### 🛠 Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -21,28 +27,26 @@ Un feliz Científico de Datos Jr. apasionado por el machine learning, el marketi
 
 [![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,html,css,sklearn,gcp,mysql)](https://skillicons.dev)
 
+### 📊 Financial Analysis and Market Research
+With solid experience in financial analysis and market research, I apply advanced data techniques to reveal insights that drive marketing strategies and financial decisions.
 
-### 📊 Análisis Financiero y Estudios de Mercado
-Con una sólida experiencia en análisis financiero y estudios de mercado, aplico técnicas avanzadas de datos para revelar insights que impulsan las estrategias de marketing y las decisiones financieras.
+### 🎯 Portfolio
+[![Projects](url-to-project-image.png)](https://github.com/JosephFaster/PROJECT_DATA_SCIENCE)
 
-### 🎯 Portafolio
-[![Proyectos](url-to-project-image.png)](https://github.com/JosephFaster/PROJECT_DATA_SCIENCE)
+- **Credit Risk Predictive Model with Scikit Learn**
+  Using Scikit Learn to analyze and predict clients' credit risk, improving decision-making in loan approvals.
 
-- **Modelo Predictivo de Riesgo Crediticio con Scikit Learn**
-  Utilizando Scikit Learn para analizar y predecir el riesgo crediticio de los clientes, mejorando así la toma de decisiones en la concesión de créditos.
+- **Market Trend Analysis with Pandas and NumPy**
+  Analyzing large market datasets to identify trends and provide data-driven marketing strategy recommendations.
 
-- **Análisis de Tendencias de Mercado con Pandas y NumPy**
-  Análisis de grandes conjuntos de datos de mercado para identificar tendencias y proporcionar recomendaciones de estrategias de marketing basadas en datos.
+- **Interactive Sales Dashboard with Power BI**
+  Developing interactive dashboards in Power BI to visualize sales KPIs and marketing performance, facilitating the understanding of complex data and strategic decision-making.
+#### 🗒️ Note: Not all projects are public.
 
-- **Dashboard Interactivo de Ventas con Power BI**
-  Desarrollo de dashboards interactivos en Power BI para visualizar KPIs de ventas y rendimiento de marketing, facilitando la comprensión de datos complejos y la toma de decisiones estratégicas.
-#### 🗒️ Nota: No todos los proyectos son públicos.
+### 🌐 Find me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-link)
 
-### 🌐 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-enlace-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](tu-enlace-github)
-
-
-### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JosephFaster&show_icons=true&theme=tokyonight)
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephFaster&show_icons=true&theme=tokyonight)
 
