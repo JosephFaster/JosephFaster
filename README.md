@@ -1,19 +1,13 @@
-Claro, aquí tienes la redacción en inglés y el perfil de GitHub ajustado:
-
----
-
-**Data Science Bootcamp**  
-A comprehensive 9-month bootcamp focused on advanced Python, SQL, and machine learning techniques. Gained expertise in key libraries like Pandas and Scikit-learn for data analysis and predictive modeling. Completed 10 practical projects, including predictive solutions for the video game industry and AI applications in mining. This hands-on experience solidified my mastery of Python as a fundamental tool in data science.
-
----
-
 ### ¡Stop right there! 👋
 
+<!--
+**JosephFaster/JosephFaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 ### 👋 Hi, I'm Paco
 
-A happy Junior Data Scientist passionate about machine learning, marketing, and finance. With a background in Industrial Economics and a solid foundation in Python, SQL, and Power BI, I specialize in transforming complex data into clear solutions and strategic decisions.
+A happy Junior Data Scientist passionate about machine learning, marketing, and finance. With training in Industrial Economics and a solid foundation in Python, SQL, and Power BI, I specialize in transforming complex data into clear solutions and strategic decisions.
 
-🔍 Throughout my career, I have utilized advanced analysis to predict market trends and consumer behaviors, optimizing advertising campaigns and financial strategies. My experience ranges from developing interactive dashboards for medical diagnostics to econometric analyses that inform policies and business strategies.
+🔍 Throughout my career, I have used advanced analysis to predict market trends and consumer behaviors, optimizing advertising campaigns and financial strategies. My experience ranges from developing interactive dashboards for medical diagnostics to econometric analyses that inform policies and business strategies.
 
 ### 🛠 Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,4 +43,3 @@ With solid experience in financial analysis and market research, I apply advance
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephFaster&show_icons=true&theme=tokyonight)
-
