@@ -5,7 +5,7 @@
 -->
 ### 👋 Hi, I'm Paco
 
-A happy Junior Data Scientist passionate about machine learning, marketing, and finance. With training in Industrial Economics and a solid foundation in Python, SQL, and Power BI, I specialize in transforming complex data into clear solutions and strategic decisions.
+A happy Data Scientist passionate about machine learning, marketing, and finance. With training in Industrial Economics and a solid foundation in Python, SQL, and Power BI, I specialize in transforming complex data into clear solutions and strategic decisions.
 
 🔍 Throughout my career, I have used advanced analysis to predict market trends and consumer behaviors, optimizing advertising campaigns and financial strategies. My experience ranges from developing interactive dashboards for medical diagnostics to econometric analyses that inform policies and business strategies.
 
