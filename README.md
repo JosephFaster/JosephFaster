@@ -27,6 +27,9 @@ With solid experience in financial analysis and market research, I apply advance
 ### 🎯 Portfolio
 [![Projects](url-to-project-image.png)](https://github.com/JosephFaster/PROJECT_DATA_SCIENCE)
 
+- **Oil Well Optimization with Linear Regression**  
+  Developed a predictive model to optimize the selection of oil wells using synthetic data from three regions. Analyzed geological data to predict oil reserves, calculated potential profits, and evaluated risks using bootstrapping. The project helped identify the region with the highest profitability and lowest risk, ensuring informed decision-making for oil field development.
+  
 - **Credit Risk Predictive Model with Scikit Learn**
   Using Scikit Learn to analyze and predict clients' credit risk, improving decision-making in loan approvals.
 
@@ -35,6 +38,7 @@ With solid experience in financial analysis and market research, I apply advance
 
 - **Interactive Sales Dashboard with Power BI**
   Developing interactive dashboards in Power BI to visualize sales KPIs and marketing performance, facilitating the understanding of complex data and strategic decision-making.
+
 #### 🗒️ Note: Not all projects are public.
 
 ### 🌐 Find me on:
