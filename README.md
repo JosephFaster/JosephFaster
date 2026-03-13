@@ -1,6 +1,6 @@
 # Francisco Lara | Quantitative Researcher 📊⚖️
 
-Industrial Economist & MSc in Financial Engineering Candidate (WorldQuant University). I specialize in bridging the gap between rigorous econometric theory and production-grade financial engineering. My focus is on developing asynchronous algorithmic systems, risk topologies, and directional alpha models.
+Industrial Economist & Future MSc in Financial Engineering. I specialize in bridging the gap between rigorous econometric theory and production-grade financial engineering. My focus is on developing asynchronous algorithmic systems, risk topologies, and directional alpha models.
 
 ---
 
