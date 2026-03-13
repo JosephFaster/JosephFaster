@@ -1,49 +1,60 @@
-### ¡Stop right there! 👋
+# Francisco Lara | Quantitative Researcher 📊⚖️
 
-<!--
-**JosephFaster/JosephFaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### 👋 Hi, I'm Paco
+Industrial Economist & MSc in Financial Engineering Candidate (WorldQuant University). I specialize in bridging the gap between rigorous econometric theory and production-grade financial engineering. My focus is on developing asynchronous algorithmic systems, risk topologies, and directional alpha models.
 
-A happy Data Scientist passionate about machine learning, marketing, and finance. With training in Industrial Economics and a solid foundation in Python, SQL, and Power BI, I specialize in transforming complex data into clear solutions and strategic decisions.
-
-🔍 Throughout my career, I have used advanced analysis to predict market trends and consumer behaviors, optimizing advertising campaigns and financial strategies. My experience ranges from developing interactive dashboards for medical diagnostics to econometric analyses that inform policies and business strategies.
+---
 
 ### 🛠 Technical Skills
+
+**Core Quantitative Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=MySQL&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge&logo=xgboost&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,html,css,sklearn,gcp,mysql)](https://skillicons.dev)
+**Infrastructure & Deployment**
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Financial Analysis and Market Research
-With solid experience in financial analysis and market research, I apply advanced data techniques to reveal insights that drive marketing strategies and financial decisions.
+**Data Management & Analytics**
+![SQL](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=MySQL&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
 
-### 🎯 Portfolio
-[![Projects](url-to-project-image.png)](https://github.com/JosephFaster/PROJECT_DATA_SCIENCE)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,docker,gcp,postgres,sklearn,pytorch,git,linux,md)](https://skillicons.dev)
 
-- **Oil Well Optimization with Linear Regression**  
-  Developed a predictive model to optimize the selection of oil wells using synthetic data from three regions. Analyzed geological data to predict oil reserves, calculated potential profits, and evaluated risks using bootstrapping. The project helped identify the region with the highest profitability and lowest risk, ensuring informed decision-making for oil field development.
-  
-- **Credit Risk Predictive Model with Scikit Learn**
-  Using Scikit Learn to analyze and predict clients' credit risk, improving decision-making in loan approvals.
+---
 
-- **Market Trend Analysis with Pandas and NumPy**
-  Analyzing large market datasets to identify trends and provide data-driven marketing strategy recommendations.
+### 🚀 Featured Projects
 
-- **Interactive Sales Dashboard with Power BI**
-  Developing interactive dashboards in Power BI to visualize sales KPIs and marketing performance, facilitating the understanding of complex data and strategic decision-making.
+#### 1. Institutional Quantitative Analysis System (Flagship)
+An institutional-grade algorithmic platform designed for high-performance portfolio optimization via an asynchronous **Machine Learning Directed Acyclic Graph (DAG)**.
 
-#### 🗒️ Note: Not all projects are public.
+* **Architecture:** Decoupled backend utilizing **FastAPI** as an Orchestrator, **Celery** for heavy asynchronous mathematical inference, and **DuckDB** as a high-speed data warehouse.
+* **Mathematical Core:** Fractional Differentiation, PCA factor extraction, **XGBoost** with Custom Loss ($BCE + L2\text{ Turnover Penalty}$), **Hierarchical Risk Parity (HRP)**, and **Black-Litterman** Bayesian blending.
+* **Evaluation:** Strict **Walk-Forward Analysis** and Out-of-Sample (OOS) evaluation.
 
-### 🌐 Find me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-link)
+> ⚠️ **Note:** The public repository contains the core logic and architecture; high-frequency execution modules and proprietary datasets remain private.
+
+#### 2. Quantitative Investment Analysis (Actinver Challenge)
+Comprehensive research project developed for the **Actinver Investment Challenge**. 
+* Developed multivariate time-series forecasting models using **Deep Learning** (LSTM) and ML ensembles.
+* Implemented automated portfolio construction algorithms focused on maximizing risk-adjusted returns (Sharpe/Sortino ratios).
+
+#### 3. Furniture Market Intelligence Platform (Hackathon Winner)
+*Winner of the TripleTen Hackathon.* * **The Challenge:** End-to-end data analysis and web platform development for a pan-European furniture retailer.
+* **Impact:** Identified critical sales bottlenecks via EDA and developed a reactive visualization interface for real-time stakeholder decision-making.
+
+---
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephFaster&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Let's Connect
+[LinkedIn](your-linkedin-link) | [GitHub](https://github.com/JosephFaster) | [Email](mailto:jo.franciscolara@gmail.com)
