@@ -93,4 +93,4 @@ Comprehensive research project developed for the **Actinver Investment Challenge
 ---
 
 ### Let's Connect
-[LinkedIn](your-linkedin-link) | [GitHub](https://github.com/JosephFaster) | [Email](mailto:jo.franciscolara@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joseph-fasteranalytics/) | [GitHub](https://github.com/JosephFaster) | [Email](jo.franciscolara@gmail.com)
