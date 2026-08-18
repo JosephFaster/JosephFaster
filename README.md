@@ -1,23 +1,23 @@
-# Francisco Lara | Quantitative Developer & ML Engineer 📊⚙️
+# Francisco Lara | Quantitative Developer & ML Engineer 
 
 Industrial Economist and MSc in Financial Engineering candidate (WorldQuant University). I build production-grade financial and data systems end to end: from econometric research and ML models to the APIs, frontends, and infrastructure that serve them. Recent work spans algorithmic trading, satellite-data analytics, and full-stack platforms with institutional-level validation.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-**Quant Investment Platform** · [Repo](#)
+**Quant Investment Platform** · [Repo](#) Privado
 Full-stack multi-user investment platform built from scratch: portfolio optimization (HRP, Black-Litterman), ML engine with purged cross-validation and an out-of-sample approval gate, encrypted per-user API key vault (Fernet + PBKDF2), and live paper-trading execution through the Alpaca API with step-up auth. FastAPI + Next.js + TypeScript, 377 automated tests, CI, Docker.
 
-**AgroLocal · Precision Agriculture Platform** · [Repo](#)
+**AgroLocal · Precision Agriculture Platform** · [Repo](#) Privado
 Agtech platform ingesting Copernicus Sentinel-2 rasters and weather data on scheduled pipelines. NDVI time series, K-Means management zones (NumPy), yield forecasting (NDVI + GDD), GlobalGAP traceability with public QR verification, payroll, and automated credit-dossier PDFs. Offline-first PWA, 165 tests.
 
-**Pick to Order · Warehouse Management System** · [Repo](#)
+**Pick to Order · Warehouse Management System** · [Repo](#) Privado
 WMS digitizing the receiving-to-putaway flow: PDF document ingestion, auto-generated location codes, picking/reserve zoning, and a fully audited stock-movement ledger as the single write path to inventory. FastAPI + Next.js + PostgreSQL.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Quant & Machine Learning**
 
@@ -55,17 +55,17 @@ WMS digitizing the receiving-to-putaway flow: PDF document ingestion, auto-gener
 
 ---
 
-### 📚 Currently
+### Currently
 
 - MSc in Financial Engineering · WorldQuant University (2025 - present)
 - Building and hardening a full-stack quant platform with live broker integration
 
-### 📫 Contact
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jo.franciscolara@gmail.com)
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 1. Institutional Quantitative Analysis System (Flagship)
 An institutional-grade algorithmic platform designed for high-performance portfolio optimization via an asynchronous **Machine Learning Directed Acyclic Graph (DAG)**.
@@ -74,7 +74,7 @@ An institutional-grade algorithmic platform designed for high-performance portfo
 * **Mathematical Core:** Fractional Differentiation, PCA factor extraction, **XGBoost** with Custom Loss ($BCE + L2\text{ Turnover Penalty}$), **Hierarchical Risk Parity (HRP)**, and **Black-Litterman** Bayesian blending.
 * **Evaluation:** Strict **Walk-Forward Analysis** and Out-of-Sample (OOS) evaluation.
 
-> ⚠️ **Note:** The public repository contains the core logic and architecture; high-frequency execution modules and proprietary datasets remain private.
+> **Note:** The public repository contains the core logic and architecture; high-frequency execution modules and proprietary datasets remain private.
 
 #### 2. Quantitative Investment Analysis (Actinver Challenge)
 Comprehensive research project developed for the **Actinver Investment Challenge**. 
@@ -87,10 +87,10 @@ Comprehensive research project developed for the **Actinver Investment Challenge
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephFaster&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 [LinkedIn](your-linkedin-link) | [GitHub](https://github.com/JosephFaster) | [Email](mailto:jo.franciscolara@gmail.com)
